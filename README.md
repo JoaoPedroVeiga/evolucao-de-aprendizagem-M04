@@ -17,15 +17,15 @@ Repositório desafios de carreira do M04
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*  Introdução ao Docker e Docker compose: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Introdução a Banco de Dados: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Metodologias ágeis:
+*  Consultas SQL: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Modelagem de dados: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Diversidade e inclusão em tecnologia:
+*  CRUD SQL: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Agrupamento e Relacionamentos entre Tabelas: Não tenho conhecimento neste assunto, pois e a primeira vez que tô estudado.
+*  Marca Pessoal e Plano de Carreira:
 * 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
