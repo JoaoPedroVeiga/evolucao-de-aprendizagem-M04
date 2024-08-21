@@ -56,25 +56,5 @@ Repositório desafios de carreira do M04
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-*  Introdução ao Docker e Docker compose: Docker e Docker Compose são recursos eficazes que auxiliam na criação, controle e coordenação de 
-   recipientes, simplificando o processo de desenvolvimento e implementação de programas.
-*  Introdução a Banco de Dados: Um banco de dados é um sistema estruturado que permite armazenar, gerenciar e recuperar informações de maneira 
-   eficaz.
-*  Metodologias ágeis: As metodologias ágeis são estratégias de gerenciamento de projetos que enfatizam a flexibilidade, a cooperação e o 
-   fornecimento contínuo de benefícios.
-*  Consultas SQL: São comandos utilizados para interagir com bancos de dados relacionais, possibilitando a execução de ações como buscar, 
-   adicionar, modificar e apagar informações.
-*  Modelagem de dados:Organizar e estruturar informações em sistemas de informação requer a modelagem de dados como um passo fundamental. 
-*  Diversidade e inclusão em tecnologia: A importância da diversidade e inclusão na indústria de tecnologia vai além, contribuindo para 
-   estimular a inovação, criatividade e um ambiente de trabalho mais igualitário e justo. 
-*  CRUD SQL: CRUD é uma sigla que abrevia as quatro operações fundamentais possíveis em um banco de dados: Criar, Ler, Atualizar e Excluir.
-*  Agrupamento e Relacionamentos entre Tabelas: A organização e conexão de dados são ideias essenciais em bancos de dados relacionais, 
-   facilitando a eficaz interligação e agrupamento de informações.
-*  Marca Pessoal e Plano de Carreira: Desenvolver uma identidade pessoal sólida e traçar um caminho claro para a carreira podem ser 
-   fundamentais para atingir suas metas profissionais. 
-*  Conexão Node.js com PostgreSQL: Para estabelecer a conexão entre o Node.js e o PostgreSQL, siga as etapas a seguir. Vou utilizar a 
-   biblioteca pg, que é amplamente reconhecida para esse propósito.
-*  Autenticação e criptografia: São componentes cruciais para garantir a segurança e a integridade dos dados em sistemas de informação.
-*  Integrar APIs de terceiros: Pode ser uma ótima maneira de adicionar funcionalidades ao seu aplicativo sem precisar desenvolvê-las do zero.
-*  Git e Fluxo de trabalho em equipe: Trabalhar com Git em equipe pode ser muito eficiente se você seguir um fluxo de trabalho bem definido. 
+ 
 
